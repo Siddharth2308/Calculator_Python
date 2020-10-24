@@ -1,2 +1,11 @@
-# Calculator_Python
-Here, we are going to create a scientific calculator using Tkinter package in Python .
+# Calculator-Python
+This is an Advanced calculator application using the Tkinter Library.
+
+### This Application provides 3 modes-
+
+###  1. Normal
+<br>
+###  2. Scientific 
+<br>
+###  3. Global
+<br>
